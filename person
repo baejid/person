@@ -3,7 +3,9 @@ class Person()
   public static void main(String a[]){
   String A=("Abdur Rahman");
   String B=("Badrul Hasan");
-  String C=("Chowdhury Shaheb")
+  String C=("Chowdhury Shaheb");
+  String D=("Doctor Shaheb");
+  String E=("Elyas Shaheb");
   
   }
 
